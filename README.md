@@ -11,6 +11,7 @@ Well annotated, minimal example that demonstrates how to use TTNN (Tenstorrent's
 
 ```
 mkdir build
+cd build
 cmake ..
 make
 ```
